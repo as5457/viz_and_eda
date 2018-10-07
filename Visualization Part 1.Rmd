@@ -1,0 +1,14 @@
+---
+title: "vis_1"
+author: "Sunny Siddique"
+date: "September 27, 2018"
+output: html_document
+---
+
+Git repo for visualization
+
+```{r}
+library(tidyverse)
+library(ggridges)
+```
+
